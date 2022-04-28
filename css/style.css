@@ -11,3 +11,14 @@
   width:100%;
   position:absolute;
 }
+body {
+  background-color: #a95aec;
+  opacity: 60%;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: transparent;
+  z-index: 0;
+}
